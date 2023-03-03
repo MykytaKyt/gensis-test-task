@@ -1,0 +1,13 @@
+flask~=2.2.3
+torch~=1.13.1
+torchvision~=0.14.1
+Pillow~=9.4.0
+pandas
+gradio
+pytest
+opencv-python~=4.7.0.72
+numpy~=1.24.2
+psutil
+seaborn
+tqdm
+locust
