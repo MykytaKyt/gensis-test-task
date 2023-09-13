@@ -1,10 +1,9 @@
-# Genesis Test Task: Object Detection and Rendering API
-This is a test task for the Genesis.
+# Object Detection and Rendering API
 The project consists few parts: a YOLOv5-based object detection and rendering API, load test and gradio demo.
 
 ## Installation
 
-Clone project ```$ git clone git@github.com:MykytaKyt/gensis-test-task.git```
+Clone project ```$ git@github.com:MykytaKyt/object-detection-api.git```
 
 ### Install the requirements
 Run  ```$ pip install -r requirements.txt```
